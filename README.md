@@ -67,7 +67,7 @@ If the user run optionnal version, the program wil also print, for each read, th
  -  8-jan-2019 : the program can now (optionnaly) count and return variant number per reads
   
 #### Licence :
-GNU General Public License v3.0
-	
+
+[<img align="right" src="https://img.shields.io/badge/License-GNU GPLv3-caa6f7?style=flat-square">](https://www.gnu.org/licenses/gpl-3.0)
 
 The program is available on : https://github.com/NaisPrudhomme/totallySAM
