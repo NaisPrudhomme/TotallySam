@@ -5,36 +5,36 @@
 
 
 #### Author :
-Anaïs Prud'homme (prudhomme.anais.12@outlook.fr)
-M1 SNS - BCD (Bioinformatics)
-HMIN113M - Systèmes
-WOOHP coorporation
+Anaïs Prud'homme (prudhomme.anais.12@outlook.fr) <br>
+M1 SNS - BCD (Bioinformatics) <br>
+HMIN113M - Systèmes <br>
+WOOHP coorporation <br>
   
 #### Date :
  - creation date : 12-nov-2019
  - first version : 09-jan-2020
   
 #### Requierements :
-To accomplish its mission, totallySAM requires Python3.
+To accomplish its mission, totallySAM requires Python3. <br>
 You can install Python3 by running : `sudo apt-get install python3`
     
 #### Description :
-totallySAM.py is a bioinformatic tool for SAM file analysis. It runs only for paired-end sequences SAM file.
+totallySAM.py is a bioinformatic tool for SAM file analysis. It runs only for paired-end sequences SAM file. <br>
 The standard programm will return :
  - Short file description
  - number of perfectly mapped reads, number of partially mapped reads and number of unmapped reads
  - number of mapped/unmapped pairs, number of mapped/mapped reads, number of partially_mapped/mapped reads and the number of partially_mapped/unmapped reads
     
-You can use it with an option to get, for partially mapped reads, the number of substitutions.
+You can use it with an option to get, for partially mapped reads, the number of substitutions. <br>
 The script has been coded under Python3.
  
 #### If you have a mission for totallySAM.py : How to run totallySAM.py ?
  - Download totallySAM.py program on the GitHub
  -  Open your terminal
  -  Go to the folder where you saved it
- -  Use the command line :
+ -  Use the command line : <br>
     Standard version
-    ` Python3 ./totallySAM.py samfile.sam `
+    ` Python3 ./totallySAM.py samfile.sam ` <br>
     With variant calling option
     ` Python3 ./totallySAM.py samfile.sam -v `
     
