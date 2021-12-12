@@ -70,4 +70,4 @@ If the user run optionnal version, the program wil also print, for each read, th
 GNU General Public License v3.0
 	
 
-The program is available on : https://github.com/Hanako29/totallySAM
+The program is available on : https://github.com/NaisPrudhomme/totallySAM
